@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋, I'm Edem
+## art & peace & code
+- 🎓 I am a student of the Higher School of Economics
+- 🧗🏽 I learn from my own mistakes
+- 🌱 Ready for the new and unknown
 
-<!--
-**khadievedem/khadievedem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadievedem&theme=dark&hide_border=true)](https://github.com/khadievedem) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadievedem&theme=dark&hide_border=true&layout=compact&hide_title=true)](https://github.com/khadievedem) |
+| ------------------------------- | ------------------------------- |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact me
+[![](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&color=black)](https://t.me/eekhdv)
+[![](https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&color=black)](https://vk.com/khadievedem)
+[![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&color=black)](mailto:khadiev.edem@gmail.com)

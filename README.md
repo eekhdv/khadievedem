@@ -1,5 +1,5 @@
 # Hi 👋, I'm Edem
-## art & peace & code
+### art & peace & code
 - 🎓 I am a student of the Higher School of Economics
 - 🧗🏽 I learn from my own mistakes
 - 🌱 Ready for the new and unknown

@@ -1,12 +1,17 @@
-# Hi 👋, I'm Edem
+# 👋, I'm Edem
 ### art & peace & code
-- 🎓 I am a student of the Higher School of Economics
-- 🧗🏽 I learn from my own mistakes
-- 🌱 Ready for the new and unknown
-
+- I am a student of the Higher School of Economics
+- I learn from my own mistakes
+- Ready for the new and unknown
+<br />
+<details>
+<summary> More about my coding life</summary>
+<br />
 
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadievedem&theme=dark&hide_border=true)](https://github.com/khadievedem) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadievedem&theme=dark&hide_border=true&layout=compact&hide_title=true)](https://github.com/khadievedem) |
 | ------------------------------- | ------------------------------- |
+</details>
+
 
 ## Contact me
 [![](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&color=black)](https://eekhdv.t.me/)

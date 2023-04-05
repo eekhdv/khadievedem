@@ -12,5 +12,5 @@
 
 ## Contact me
 [![](https://img.shields.io/badge/-telegram-white?style=for-the-badge&logo=telegram&color=black)](https://eekhdv.t.me/)
-[![](https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&color=black)](https://vk.com/khadievedem)
+[![](https://img.shields.io/badge/-vk-white?style=for-the-badge&logo=vk&color=black)](https://vk.com/eekhdv)
 [![](https://img.shields.io/badge/-gmail-white?style=for-the-badge&logo=gmail&color=black)](mailto:khadiev.edem@gmail.com)

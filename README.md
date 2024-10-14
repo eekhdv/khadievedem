@@ -5,7 +5,7 @@
 - Ready for the new and unknown
 <br />
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khadievedem&theme=dark&count_private=true&hide_border=true)](https://github.com/khadievedem) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khadievedem&theme=dark&hide_border=true&count_private=true&layout=compact&hide_title=true)](https://github.com/khadievedem) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eekhdv&theme=dark&count_private=true&hide_border=true)](https://github.com/eekhdv) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eekhdv&theme=dark&hide_border=true&count_private=true&layout=compact&hide_title=true)](https://github.com/eekhdv) |
 | ------------------------------- | ------------------------------- |
 
 
